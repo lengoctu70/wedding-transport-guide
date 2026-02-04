@@ -110,6 +110,10 @@ export const TRANSPORT_DATA: TransportOption[] = [
       arrivalTime: '04:00 - 05:00',
       arrivalLocation: 'BX Miền Đông'
     },
+    link: 'https://xekhachcohai.com/',
+    linkText: 'Đặt vé trên web',
+    image: 'https://mia.vn/media/uploads/blog-du-lich/top-8-xe-phong-nam-di-da-lat-tu-sai-gon-dam-bao-chat-luong-va-an-toan-nhat-03-1634463427.jpg',
+    imageAlt: 'Xe giường nằm phòng rộng, tiện nghi',
     note: 'Xe giường nằm phòng lớn, tiện nghi.'
   },
   {

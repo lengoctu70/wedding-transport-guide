@@ -33,6 +33,8 @@ export interface TransportOption {
   price?: string;
   link?: string;
   linkText?: string;
+  image?: string;
+  imageAlt?: string;
   importantWarning?: string;
 }
 
